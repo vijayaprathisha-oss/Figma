@@ -34,6 +34,7 @@ Link frames to show navigation or interactions.
 Select the specific frame while generating code using Anima plugin.
 
 ## CODE:
+```
 index.html
 <!DOCTYPE html>
 <html>
@@ -178,7 +179,7 @@ style.css
   letter-spacing: 0;
   line-height: normal;
 }
-
+```
 
 
 ## OUTPUT:
